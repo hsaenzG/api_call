@@ -8,7 +8,7 @@ Aplicación frontend interactiva que visualiza el flujo completo de peticiones H
 - 🎨 **Interfaz temática mágica**: Diseño inspirado en el mundo de Harry Potter con efectos visuales
 - 🌈 **Cambio dinámico de colores**: El fondo cambia con cada respuesta exitosa
 - 🖼️ **Imágenes reales**: Muestra fotos de los personajes de las películas
-- ⚡ **Sistema de duelos**: Compara el poder de dos personajes
+- ⚡ **Sistema de duelos**: Compara el poder de dos personajes 
 
 ## 🚀 Instalación
 
