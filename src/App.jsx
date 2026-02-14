@@ -217,7 +217,7 @@ function App() {
     }
   };
 
-  const iniciarDuelo = async () => {
+  const iniciarDuelo = async () => { 
     if (!personaje1 || !personaje2) return;
     
     setCargando(prev => ({ ...prev, duelo: true }));
