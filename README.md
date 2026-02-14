@@ -17,7 +17,7 @@ Aplicación frontend interactiva que visualiza el flujo completo de peticiones H
 gh repo clone hsaenzG/api_call
 
 # Instalar dependencias
-npm install
+npm install 
 ```
 
 ## 💻 Ejecutar
