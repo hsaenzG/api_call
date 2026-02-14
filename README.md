@@ -14,7 +14,7 @@ Aplicación frontend interactiva que visualiza el flujo completo de peticiones H
 
 ```bash
 # Clonar el repositorio
-git clone <tu-repositorio>
+gh repo clone hsaenzG/api_call
 
 # Instalar dependencias
 npm install
