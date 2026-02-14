@@ -196,7 +196,7 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 ## 🙏 Créditos
 
 - **API de Harry Potter**: [fedeperin/potterapi](https://github.com/fedeperin/potterapi)
-- **Imágenes**: Warner Bros. y fuentes oficiales 
+- **Imágenes**: Warner Bros. y fuentes oficiales
 - **Inspiración**: El maravilloso mundo mágico de J.K. Rowling
 
 ---
