@@ -125,13 +125,43 @@ Compara dos personajes basándose en:
 - **Tema oscuro mágico**: Colores dorados y morados inspirados en Hogwarts
 - **Efectos de brillo**: Text-shadow y box-shadow para efecto mágico
 
-## 🚢 Despliegue
+## 🚢 Despliegue en GitHub Pages
 
-Esta aplicación es 100% frontend y puede desplegarse en:
+Este proyecto está configurado para desplegarse automáticamente en GitHub Pages.
+
+### Configuración inicial
+
+1. Ve a tu repositorio en GitHub
+2. Settings → Pages
+3. En "Source", selecciona "GitHub Actions"
+
+### Despliegue automático
+
+Cada vez que hagas push a la rama `main`, GitHub Actions:
+- Instalará las dependencias
+- Construirá el proyecto
+- Desplegará automáticamente a GitHub Pages
+
+Tu sitio estará disponible en: `https://hsaenzG.github.io/api_call/`
+
+### Despliegue manual (alternativo)
+
+Si prefieres desplegar manualmente:
+
+```bash
+# Instalar dependencias
+npm install
+
+# Desplegar
+npm run deploy
+```
+
+### Otras plataformas
+
+Esta aplicación también puede desplegarse en:
 
 - **Vercel**: `vercel deploy`
 - **Netlify**: Arrastra la carpeta `dist` después de `npm run build`
-- **GitHub Pages**: Configura el workflow de GitHub Actions
 - **Cloudflare Pages**: Conecta tu repositorio
 
 ### Build para producción
